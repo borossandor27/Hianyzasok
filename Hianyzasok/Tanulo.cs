@@ -32,7 +32,7 @@ namespace Hianyzasok
             {
                 switch (jelenlet[i])
                 {
-                    case 'O':
+                    case 'X':
                         igazolt++;
                         break;
                     case 'I':
